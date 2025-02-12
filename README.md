@@ -22,6 +22,7 @@ This Power BI dashboard provides an in-depth churn analysis of bank customers. I
 
 
 📈 Dashboard Screenshort
+
 ![Screenshot 2025-02-12 182003](https://github.com/user-attachments/assets/868e2b9f-97e9-49a5-967f-f5bd5042eb2c)
 
 
