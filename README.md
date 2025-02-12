@@ -40,8 +40,11 @@ This Power BI dashboard provides an in-depth churn analysis of bank customers. I
 
 
 🚀 How to Use
+
 Download Bank Customer Churn Analysis.pbix.
+
 Open in Power BI Desktop.
+
 Explore insights using filters and visualizations.
 
 
