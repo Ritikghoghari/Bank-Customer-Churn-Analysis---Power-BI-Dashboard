@@ -1,33 +1,39 @@
-📌 Bank Customer Churn Analysis - Power BI Dashboard
+📊 Bank Customer Churn Analysis - Power BI Dashboard
 
-🔹 Project Overview
+📌 Project Overview
 This Power BI dashboard provides a detailed churn analysis of bank customers. It explores factors influencing customer churn, such as demographics, account balance, credit score, and product usage.
 
-📊 Key Features
-Interactive Visuals: Dynamic charts & graphs for customer segmentation.
-Churn Insights: Identifies patterns in customer churn behavior.
-Filters & Drill-downs: Enables deeper exploration of the dataset.
+🏆 Key Features
+✅ Customer Segmentation: Analyze churn by gender, credit card status, country, and product type.
+✅ Churn Rate Analysis: Explore churn trends across different age groups and credit scores.
+✅ Interactive Visuals: Drill-through filters allow dynamic insights into customer behaviors.
+✅ Business Insights: Identify key patterns affecting customer retention and engagement.
 
 
-🛠 Tools Used
-Power BI (for data visualization)
-Python / SQL (if any preprocessing was done)
-Excel / CSV (dataset source)
+📂 Project Files
+File Name	Description
+📂 Bank Customer Churn Analysis.pbix	Power BI report file
+🖼️ dashboard_screenshot.png	Dashboard preview
+📄 README.md	Project documentation
 
 
-📂 Files in Repository
-🟢 Bank Customer Churn Analysis.pbix → Power BI report file
-🟢 Screenshot.png → Dashboard preview
-🟢 README.md → Project documentation
+🛠 Tools & Technologies Used
+++ Power BI - Data Visualization & Dashboarding
+++ Excel / CSV - Data Source
+++ SQL / Python - (If applicable for data preprocessing)
+
 
 
 📈 Dataset Information
-Customers: 10,000
-Key Attributes:
-Gender, Age, Activity Status
-Credit Card Status
-Country & Product Usage
-Credit Score & Account Balance
+* Total Customers: 10,000
+* Key Attributes:
+📌 Gender (Male/Female)
+📌 Activity Status (Active/Inactive)
+📌 Credit Card Ownership (Owned/Not Owned)
+📌 Country Distribution (France, Germany, Spain)
+📌 Product Categories (Prod 1 - Prod 4)
+📌 Age Groups & Credit Score Segmentation
+📌 Account Balance Insights
 
 
 🚀 How to Use
