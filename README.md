@@ -1,7 +1,7 @@
 📊 Bank Customer Churn Analysis - Power BI Dashboard
 
 📌 Project Overview
-This Power BI dashboard provides a detailed churn analysis of bank customers. It explores factors influencing customer churn, such as demographics, account balance, credit score, and product usage.
+This Power BI dashboard provides an in-depth churn analysis of bank customers. It identifies key factors contributing to customer churn based on demographics, account balance, credit score, and product usage.
 
 🏆 Key Features
 ✅ Customer Segmentation: Analyze churn by gender, credit card status, country, and product type.
@@ -11,9 +11,7 @@ This Power BI dashboard provides a detailed churn analysis of bank customers. It
 
 
 📂 Project Files
-File Name	Description
 📂 Bank Customer Churn Analysis.pbix	Power BI report file
-🖼️ dashboard_screenshot.png	Dashboard preview
 📄 README.md	Project documentation
 
 
@@ -21,6 +19,10 @@ File Name	Description
 ++ Power BI - Data Visualization & Dashboarding
 ++ Excel / CSV - Data Source
 ++ SQL / Python - (If applicable for data preprocessing)
+
+
+📈 Dashboard Screenshort
+![Screenshot 2025-02-12 182003](https://github.com/user-attachments/assets/868e2b9f-97e9-49a5-967f-f5bd5042eb2c)
 
 
 
